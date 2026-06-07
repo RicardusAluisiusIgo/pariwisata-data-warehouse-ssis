@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Pariwisata_Cube", "Pariwisata_Cube\Pariwisata_Cube.dwproj", "{F2E511B4-2B12-1A33-496C-9A526F14E998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2E511B4-2B12-1A33-496C-9A526F14E998}.Development|Default.ActiveCfg = Development
+		{F2E511B4-2B12-1A33-496C-9A526F14E998}.Development|Default.Build.0 = Development
+		{F2E511B4-2B12-1A33-496C-9A526F14E998}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C1CF322-D6C2-4A1D-9CBB-03CF5B294BED}
+	EndGlobalSection
+EndGlobal
